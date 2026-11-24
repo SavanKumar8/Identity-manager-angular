@@ -1,0 +1,272 @@
+[
+  {
+    "id": "id-01",
+    "name": "Asha Verma",
+    "department": "Finance",
+    "manager": "R. Nair",
+    "status": "active",
+    "accessItems": 14,
+    "risk": "high"
+  },
+  {
+    "id": "id-02",
+    "name": "Ravi Kulkarni",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "active",
+    "accessItems": 9,
+    "risk": "medium"
+  },
+  {
+    "id": "id-03",
+    "name": "Meera Joshi",
+    "department": "HR",
+    "manager": "A. Menon",
+    "status": "mover",
+    "accessItems": 6,
+    "risk": "low"
+  },
+  {
+    "id": "id-04",
+    "name": "Karan Shah",
+    "department": "Sales",
+    "manager": "P. Rao",
+    "status": "leaver",
+    "accessItems": 11,
+    "risk": "high"
+  },
+  {
+    "id": "id-05",
+    "name": "Neha Deshmukh",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "active",
+    "accessItems": 18,
+    "risk": "high"
+  },
+  {
+    "id": "id-06",
+    "name": "Vikram Malhotra",
+    "department": "Security",
+    "manager": "D. Chatterjee",
+    "status": "active",
+    "accessItems": 22,
+    "risk": "high"
+  },
+  {
+    "id": "id-07",
+    "name": "Priya Patel",
+    "department": "Operations",
+    "manager": "M. Hegde",
+    "status": "active",
+    "accessItems": 7,
+    "risk": "low"
+  },
+  {
+    "id": "id-08",
+    "name": "Arjun Mehta",
+    "department": "Finance",
+    "manager": "R. Nair",
+    "status": "mover",
+    "accessItems": 15,
+    "risk": "medium"
+  },
+  {
+    "id": "id-09",
+    "name": "Sneha Reddy",
+    "department": "HR",
+    "manager": "A. Menon",
+    "status": "active",
+    "accessItems": 5,
+    "risk": "low"
+  },
+  {
+    "id": "id-10",
+    "name": "Rohan Kapoor",
+    "department": "Sales",
+    "manager": "P. Rao",
+    "status": "active",
+    "accessItems": 12,
+    "risk": "medium"
+  },
+  {
+    "id": "id-11",
+    "name": "Divya Krishnan",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "leaver",
+    "accessItems": 16,
+    "risk": "high"
+  },
+  {
+    "id": "id-12",
+    "name": "Siddharth Joshi",
+    "department": "Security",
+    "manager": "D. Chatterjee",
+    "status": "active",
+    "accessItems": 19,
+    "risk": "medium"
+  },
+  {
+    "id": "id-13",
+    "name": "Ananya Sharma",
+    "department": "Operations",
+    "manager": "M. Hegde",
+    "status": "mover",
+    "accessItems": 8,
+    "risk": "low"
+  },
+  {
+    "id": "id-14",
+    "name": "Manish Tiwari",
+    "department": "Finance",
+    "manager": "R. Nair",
+    "status": "active",
+    "accessItems": 10,
+    "risk": "low"
+  },
+  {
+    "id": "id-15",
+    "name": "Kavita Gokhale",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "active",
+    "accessItems": 13,
+    "risk": "medium"
+  },
+  {
+    "id": "id-16",
+    "name": "Nikhil Bansal",
+    "department": "Sales",
+    "manager": "P. Rao",
+    "status": "leaver",
+    "accessItems": 9,
+    "risk": "medium"
+  },
+  {
+    "id": "id-17",
+    "name": "Pooja Choudhary",
+    "department": "HR",
+    "manager": "A. Menon",
+    "status": "active",
+    "accessItems": 4,
+    "risk": "low"
+  },
+  {
+    "id": "id-18",
+    "name": "Aditya Saxena",
+    "department": "Security",
+    "manager": "D. Chatterjee",
+    "status": "mover",
+    "accessItems": 21,
+    "risk": "high"
+  },
+  {
+    "id": "id-19",
+    "name": "Shruti Nambiar",
+    "department": "Operations",
+    "manager": "M. Hegde",
+    "status": "active",
+    "accessItems": 11,
+    "risk": "medium"
+  },
+  {
+    "id": "id-20",
+    "name": "Deepak Mishra",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "active",
+    "accessItems": 17,
+    "risk": "high"
+  },
+  {
+    "id": "id-21",
+    "name": "Swati Sengupta",
+    "department": "Finance",
+    "manager": "R. Nair",
+    "status": "leaver",
+    "accessItems": 13,
+    "risk": "high"
+  },
+  {
+    "id": "id-22",
+    "name": "Abhishek Bhat",
+    "department": "Sales",
+    "manager": "P. Rao",
+    "status": "active",
+    "accessItems": 8,
+    "risk": "low"
+  },
+  {
+    "id": "id-23",
+    "name": "Tanvi Deshpande",
+    "department": "HR",
+    "manager": "A. Menon",
+    "status": "mover",
+    "accessItems": 7,
+    "risk": "low"
+  },
+  {
+    "id": "id-24",
+    "name": "Harshvardhan Rao",
+    "department": "Operations",
+    "manager": "M. Hegde",
+    "status": "active",
+    "accessItems": 14,
+    "risk": "medium"
+  },
+  {
+    "id": "id-25",
+    "name": "Pallavi Kulkarni",
+    "department": "Security",
+    "manager": "D. Chatterjee",
+    "status": "active",
+    "accessItems": 24,
+    "risk": "high"
+  },
+  {
+    "id": "id-26",
+    "name": "Gaurav Chawla",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "mover",
+    "accessItems": 12,
+    "risk": "medium"
+  },
+  {
+    "id": "id-27",
+    "name": "Ritu Agarwal",
+    "department": "Finance",
+    "manager": "R. Nair",
+    "status": "active",
+    "accessItems": 9,
+    "risk": "low"
+  },
+  {
+    "id": "id-28",
+    "name": "Sameer Sheikh",
+    "department": "Sales",
+    "manager": "P. Rao",
+    "status": "active",
+    "accessItems": 15,
+    "risk": "high"
+  },
+  {
+    "id": "id-29",
+    "name": "Nandini Pillai",
+    "department": "Operations",
+    "manager": "M. Hegde",
+    "status": "leaver",
+    "accessItems": 6,
+    "risk": "low"
+  },
+  {
+    "id": "id-30",
+    "name": "Tarun Verma",
+    "department": "Engineering",
+    "manager": "S. Iyer",
+    "status": "active",
+    "accessItems": 10,
+    "risk": "low"
+  }
+]
